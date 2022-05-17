@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @StillR007
 - 👀 I’m interested in Web-development
-- 🌱 I’m currently learning JS with React framefork, Bitrix Framework and JS libraries such as GSAP and Three.js
+- 🌱 I’m currently learning JS with React framefork and JS libraries such as GSAP and Three.js
 - 📫 How to reach me: @RenamnedStillR
 
 <!---
